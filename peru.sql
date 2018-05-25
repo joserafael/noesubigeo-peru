@@ -1,7 +1,7 @@
 
 -- MySQL dump 10.13  Distrib 5.5.44, for debian-linux-gnu (x86_64)
---
--- Host: 127.0.0.1    Database: evaluaciones
+-- Jose Rafael Camejo http://www.joserafael.com.ve
+-- Host: 127.0.0.1    Database: peru
 -- ------------------------------------------------------
 -- Server version	5.5.44-0ubuntu0.14.04.1
 
